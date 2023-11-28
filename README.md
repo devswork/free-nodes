@@ -1,7 +1,7 @@
 # The Free Nodes Project
 
 ## Must Read [important note]
-These are some free SS/SSR/V2Ray nodes, updated every 1 hour.
+These are some free SS/SSR/Vmess nodes, updated every 1 hour.
 
 The data comes from the internet, please use it carefully.
 
